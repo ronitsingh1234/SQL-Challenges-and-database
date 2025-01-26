@@ -1,4 +1,3 @@
-# SQL-Challenges-and-database
 # SQL Challenges and Database
 
 This repository contains SQL queries for solving data analysis challenges and a sample database file.
